@@ -28,6 +28,11 @@ export class DestinationPage {
 		);
   }
 
+  // launchNavigation(){
+  //   var launchnavigator:any;
+  //   launchnavigator.navigate("Wilmington, DE");
+  // }
+
   // ngOnInit(){
 	// 	this._destinationService.getDestinations()
 	// 		.subscribe(
