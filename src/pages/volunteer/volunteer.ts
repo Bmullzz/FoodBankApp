@@ -27,3 +27,4 @@ export class VolunteerPage {
   markerLabel: String = "Test marker";
 
 }
+ 
