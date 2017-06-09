@@ -33,4 +33,9 @@ export class DestinationPage implements OnInit{
 			// )
   }
 
+  //add map
+
+  //constructor to take in coordinates
+
+  //route from one location to another
 }

@@ -43,10 +43,12 @@ donationList: Donation[] = [];
 
   createDonation(){
 
-    this.donationList.push(new Donation(this.name, this.organization, this.phone, this.email, this.address, 
+    this.donationList.push(new Donation(this.name, this.organization, this.phone, this.email, this.address,
     this.city, this.state, this.zipCode, this.donation))
-
   }
+
+  
+
 
 
 }
